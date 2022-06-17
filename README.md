@@ -14,3 +14,7 @@
 3. hello
 
 > life is short, 
+
+```java
+System.out.println("hello world");
+```
